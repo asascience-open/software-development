@@ -1,7 +1,7 @@
 # Git
 
 ## Links
-
+- [forking repo workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow)
 - [One type of workflow](https://sandofsky.com/blog/git-workflow.html)
 - [Git SCM](http://git-scm.com/doc)
 - [Rebasing Merge commits in git](http://marketblog.envato.com/general/rebasing-merge-commits-in-git/)
