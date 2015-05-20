@@ -1,6 +1,7 @@
 # Git
 
 ## Links
+- [how to fork a repo](https://help.github.com/articles/fork-a-repo/)
 - [forking repo workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow)
 - [One type of workflow](https://sandofsky.com/blog/git-workflow.html)
 - [Git SCM](http://git-scm.com/doc)
