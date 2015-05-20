@@ -14,3 +14,7 @@ All Rights Reserved
 4. [Systems Programming](Systems-Programming.md)
 5. [Data Structures and Algorithms](Data-Structures-and-Algorithms.md)
 6. [C Projects](C.md)
+7. [vim](vim.md)
+8. [git](git.md)
+9. [Amazon AWS](Amazon-AWS.md)
+10. [Copyright and Intellectual Property Rights](Copyright-and-Intellectual-Property-Rights.md)

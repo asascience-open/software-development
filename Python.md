@@ -1,5 +1,8 @@
 # Python
 
+# Start here
+[Hitchier's Guide to Python - When you're done you can come back](http://docs.python-guide.org/en/latest/)
+
 - Every builtin function: [Python Builtins for 2.7](https://docs.python.org/2/library/functions.html)
 - Object Oriented Programming: 
   - [Classes in Python](https://docs.python.org/2/tutorial/classes.html)
